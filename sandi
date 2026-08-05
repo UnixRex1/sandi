@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 
+__author__ = "Rex <rexunix@rex.email>"
+__copyright__ = "Copyright (c) 2026 Rex"
+__license__ = "GPL-3.0-or-later"
+__version__ = "0.1.0"
+
 from __future__ import annotations
 
 import argparse
